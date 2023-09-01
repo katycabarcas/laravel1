@@ -1,0 +1,14 @@
+proyecto desarrollo laravel Login: se inicia sesión, actualmente hay 3 
+usuarios en la base de datos registrados
+user1@mail.com contraseña:123456789
+user2@mail.com contraseña:123456789
+user3@mail.com contraseña:123456789
+en la parte inferior de login (registrrse aquí) redirige a la ventana de Registro Register 
+el cual pide nombre, correo, contraseña, y confirmar contraseña Al ingresar con usuario y 
+contraseña se encuentra menú | estudiantes |calificaciones |user para estudiantes: Se encuentran 3 estudiantes registrados
+que se pueden: ver, editar y eliminar en la parte superior se encuentra un botón de Create New, este permite crear un nuevo registro
+de estudiante y muestra una nueva ventada donde pide el nombre y correo. Para calificaciones: Relaciona los estudiantes registrados mu
+estra nombre, nota y os botones donde se puede:ver, editar y eliminar para cada registro hay un botón para subir archivo, puede ser imagen, doc, etc 
+en la parte superior se encuentra un botón de Create New, este permite crear un nuevo registro de calificaciones nos pide seleccionar Estudiante Id
+que es el nombre registrado en la tabla estudiantes, 
+y la nota que puede ser decimal. al momento de eliminar cada registro, en la parte superior presentará mensaje de eliminado con éxito para cerrar sesión se dirige user opción logout
